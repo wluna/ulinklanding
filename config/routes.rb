@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   get "privacy" => "welcome#privacy"
   get "donate" => "welcome#donate"
   get "about" => "welcome#about"
-  get "programs" => "welcome#programs"
+  get "press" => "welcome#press"
   get "team" => "welcome#team"
   get "contact" => "welcome#contact"
 
