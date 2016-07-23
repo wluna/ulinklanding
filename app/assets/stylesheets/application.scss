@@ -4,14 +4,34 @@
     font-family: comfortaa, open sans;
   }
 
+
   h5, p {
     font-family: open sans;
   }
+
+  h1 {
+
+    font-size: 1000%;
+
+  }
+
+  h4 {
+
+    font-size: 350%;
+
+  }
+
+
+strong {
+  font-family: Arial;
+  font-weight: 700;
+}
 
   body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    background-color: #F7E2C5;
   }
 
   main {
