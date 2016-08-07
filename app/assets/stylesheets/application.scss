@@ -16,7 +16,6 @@
     font-size: 350%;
   }
 
-
   strong {
     font-family: Arial;
     font-weight: 700;
@@ -27,6 +26,10 @@
     min-height: 100vh;
     flex-direction: column;
     background-color: #F7E2C5;
+  }
+
+  card {
+    color: #F7E2C5;
   }
 
   main {
